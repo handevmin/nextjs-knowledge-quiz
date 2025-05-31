@@ -82,7 +82,6 @@ export default function Home() {
     setQuizStarted(true);
   };
 
-  const canSelectAnswer = currentAnswer !== undefined && !showExplanation;
   const canCheckAnswer = currentAnswer !== undefined && !showExplanation;
   const canProceed = showExplanation;
 
