@@ -1,7 +1,10 @@
 {
-  "name": "nextjs-quiz",
-  "version": "0.1.0",
+  "name": "nextjs-knowledge-assessment",
+  "version": "1.0.0",
+  "description": "Next.js 지식 평가를 위한 인터랙티브 퀴즈 애플리케이션",
   "private": true,
+  "keywords": ["nextjs", "quiz", "assessment", "education", "react", "typescript"],
+  "author": "Next.js Quiz Team",
   "scripts": {
     "dev": "next dev --turbopack",
     "build": "next build",
